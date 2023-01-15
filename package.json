@@ -19,9 +19,9 @@
   "author": "Kastus",
   "license": "ISC",
   "bugs": {
-    "url": "git+https://github.com/Qw3ko/Simple-task-manager"
+    "url": "git+https:https://github.com/ledvanoff/sf_oopapp/issues"
   },
-  "homepage": "git+https://github.com/Qw3ko/Simple-task-manager",
+  "homepage": "git+https:https://github.com/ledvanoff/sf_oopapp/issues",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.7.1",
