@@ -4,4 +4,10 @@ export class BaseModel {
   constructor() {
     this.id = uuid();
   }
+  //обновления uid
+  updateUid(uid)
+  {
+    this.id = uid;
+  }
 }
+
